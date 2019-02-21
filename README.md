@@ -1,2 +1,2 @@
-#test_repo
+#testrepo
 Test Repo for git usage
